@@ -1,0 +1,39 @@
+body{
+	background-image: url('../image/sea.jpeg');
+	background: #B3B3B3;
+	font-size:150%;
+	margin :4%;
+}
+header{
+	background: #666666;
+	text-align: center;
+	padding: 15px;
+
+}
+h1{
+	color:#FFFFFF;
+}
+
+nav{
+	font-variant:small-caps;
+	font-size:150%;
+	font-family: "Time New Roman", serif;
+}
+h2{
+	color: #666666;
+	background: #00b7ea
+}
+
+details{
+	font-style: italic;
+}
+summary {
+	font-style: normal;
+}
+section{
+	display: inline-block;
+	font-size:70%; 
+	width: 30%;
+	float: left;
+	margin-right: 2%;
+}
