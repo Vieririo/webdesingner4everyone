@@ -1,0 +1,47 @@
+
+header {
+	color: #ffffff;
+	text-align: center;
+	background-image: url('../image/img.jpg.jpg')
+}
+header h1{
+	text-transform: uppercase;
+}
+nav{
+	font-variant: small-caps;
+}
+nav a{
+
+	color: #000;
+	margin:50px;
+	font-size: 150%;
+	display: inline-block;
+	background: #FFFFFFD6;
+	padding: 20px;
+	text-decoration: none;
+}
+aside{
+	float: left;
+	background-color: #48AE61;
+	width: 190px;
+	height: 550px;
+	
+}
+
+img {
+	
+	width: 150px; height: 150px;
+	padding:10px; 
+}
+section{
+
+	float: right;
+	margin:50px;
+	font-size: 100%;
+	width: 1009px;
+	float: right;
+	
+
+}
+
+	
